@@ -20,4 +20,4 @@ Generate secure passwords with customizable options.
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/password-generator-with-react.git
+   git clone https://github.com/rj9884/password-generator-with-react.git
